@@ -1,0 +1,9 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
